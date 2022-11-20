@@ -21,9 +21,6 @@ baseurl: '/CSCI5980-Spr23-DL-RPM' # the subpath of your site, e.g. /blog
 url: 'https://rpm-lab.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
-ga_tracking: G-FX9SVF3WSQ
-ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
 color_scheme: light
@@ -36,7 +33,7 @@ aux_links:
     - 'https://edstem.org/us/courses/31008/discussion/'
   Office Hours:
     - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
-  '<img src="/assets/logos/UMRobotics.png" class="nav-img">':
+  '<img src="./assets/logos/UMRobotics.png" class="nav-img">':
     - 'https://robotics.umich.edu/'
 
 # Collections for website data
