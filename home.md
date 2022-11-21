@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Home
-description: A course covering the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. ROB 498-002 and ROB 599-009 at the University of Michigan.
+description: A course covering the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. CSCI5980 at the University of Minnesota.
 nav_order: 1
 permalink: /
 ---
 
-# Deep Learning for Robot Perception and Manipulation
+# CSCI5980 - Deep Learning for Robot Perception and Manipulation
 
-CSCI 5980, Spring 2023 at The University of Minnesota - Twin Cities
+## Spring 2023 at The University of Minnesota - Twin Cities
 {: .fs-6 .fw-300 }
 
 This website describes a course still in development to be offered in the Spring 2023 semester.

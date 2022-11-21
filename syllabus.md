@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Syllabus
-description: Course policies and information pertaining to Deep Learning for Robot Perception at the University of Michigan.
+description: Course policies and information pertaining to Deep Learning for Robot Perception and Manipulation at the University of Minnesota.
 nav_order: 2
 ---
 
@@ -46,27 +46,27 @@ The second half of the course will switch to seminar style covering following ad
 
 ## Prerequisites
 
- - Strongly encouraged prerequisites:
-   - Programming: ROB 320, EECS 281, or equivalent
-   - Linear Algebra: ROB 101, MATH 214, MATH 217, or equivalent
- - Recommended prerequisites:
-   - Prior experience with the [Python programming language](https://www.python.org/) is recommended.
-   - Familiarity with gradients and how to calculate them from vector calculus.
-   - Familiarity with random variables and probability distributions from probability theory.
-   - Familiarity with concepts from machine learning (e.g. EECS 445) will be helpful.
+- Strongly encouraged prerequisites:
+  - Linear Algebra, Calculus, and Probability
+  - Programming fluency in data structures in a classical programming language is essential.  
+  - Prior experience with the [Python programming language](https://www.python.org/) is strongly recommended.
+
+- Recommended prerequisites: 
+  - CSCI 5511 - Artificial Intelligence I
+  - CSCI 5521 - Machine Learning Fundamentals
+    - Familiarity with concepts from machine learning will be helpful.
+  - CSCI 5551 - Introduction to Intelligent Robotic Systems
 
 
 ## Lectures
 
-Lectures will take place in-person with remote accessibility (synchronous and asynchronous). 
+Lectures will take place in-person on **Tuesdays and Thursdays from 2:30-3:45 PM CT in room TBD**.
 
-In-person lectures will be held on **Tuesdays and Thursdays from 3:00-4:30 PM EST in room 1060 FMCRB**.
-
-## Discussion Sections
+<!-- ## Discussion Sections
 
 Discussions will take place in-person with remote accessibility (synchronous and asynchronous). 
 
-In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**.
+In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**. -->
 
 ## Grading Policy
 

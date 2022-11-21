@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Calendar
-description: Schedule of topics covered in Deep Learning for Robot Perception at the University of Michigan.
+description: Schedule of topics covered in Deep Learning for Robot Perception and Manipulation at the University of Minnesota.
 nav_order: 3
 ---
 
