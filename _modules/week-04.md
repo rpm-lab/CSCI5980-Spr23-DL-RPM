@@ -9,5 +9,6 @@ Feb 07
 
 Feb 09
 : **Lec 8**{: .label .label-purple }[CNN Architectures](#)
+
 <!-- Jan 27
 : **Dis 4**{: .label .label-blue }[Optimization in PyTorch](#) -->

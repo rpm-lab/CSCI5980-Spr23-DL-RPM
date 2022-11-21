@@ -8,6 +8,7 @@ Feb 14
 
 Feb 16
 : **Lec 10**{: .label .label-purple }[Training Neural Networks II](#)
+
 <!-- Feb 3
 : **Dis 5**{: .label .label-blue }[Training CNNs in PyTorch](#)
  -->

@@ -8,6 +8,6 @@ Jan 24
 
 Jan 26
 : **Lec 4**{: .label .label-purple }[Regularization + Optimization](#)
-  <!-- : [3.1](#), [2.2](#), [2.3](#) -->
+
 <!-- : **Dis 2**{: .label .label-blue }[Intro to PyTorch](#)
   : [Tutorial Code](https://pytorch.org/tutorials/beginner/basics/intro.html), [Tutorial Slides](#) -->

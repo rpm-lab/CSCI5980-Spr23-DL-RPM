@@ -8,6 +8,8 @@ Mar 28
 
 Mar 30
 : **Lec 20**{: .label .label-purple }[Semantic Scene Graphs](#)
+
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
+
 <!-- Mar 17
 : **Dis 10**{: .label .label-blue }[Paper discussion: Deep Filters](#) -->

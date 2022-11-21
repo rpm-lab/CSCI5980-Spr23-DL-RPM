@@ -8,6 +8,8 @@ Feb 28
 
 Mar 02
 : **Lec 14**{: .label .label-purple }[RGB-D Architectures](#)
+
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
+  
 <!-- Feb 17
 : **Dis 7**{: .label .label-blue }[Detection & Segmentation Demo](#) -->

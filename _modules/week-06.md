@@ -8,6 +8,7 @@ Feb 21
 
 Feb 23
 : **Lec 12**{: .label .label-purple }[Object Detection](#)
+
 <!-- Feb 10
 : **Dis 6**{: .label .label-blue }[Tensorflow, Keras, Darknet, etc.](#)
  -->

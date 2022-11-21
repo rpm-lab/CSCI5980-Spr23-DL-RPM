@@ -8,6 +8,7 @@ Jan 31
 
 Feb 02
 : **Lec 6**{: .label .label-purple }[Backpropagation](#)
+
 <!-- : **Dis 3**{: .label .label-blue }[Neural Networks in PyTorch](#) -->
 
 
