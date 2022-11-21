@@ -33,8 +33,8 @@ aux_links:
     - 'https://edstem.org/us/courses/31008/discussion/'
   # Office Hours:
   #   - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
-  '<img src="/assets/logos/UMRobotics.png" class="nav-img">':
-    - 'https://robotics.umich.edu/'
+  # '<img src="/assets/logos/UMRobotics.png" class="nav-img">':
+  #   - 'https://robotics.umich.edu/'
 
 # Collections for website data
 collections:
