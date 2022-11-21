@@ -1,8 +1,8 @@
 ---
 name: Chad Jenkins
-role: Instructor
+role: Collaborating Instructor
 email: ocj@umich.edu
 website: https://ocj.name/
 photo: chad.jpg
-office-hours: TBD
+# office-hours: TBD
 ---
