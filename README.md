@@ -1,8 +1,8 @@
-# Deep Learning for Robot Perception
+# CSCI5980 - Deep Learning for Robot Perception and Manipulation
 
-**ROB 498-002 & 599-009, Winter 2023 at The University of Michigan**
+**Spring 2023 at The University of Minnesota**
 
-**This website describes a course still in development to be offered in the Winter 2023 semester.**
+**This website describes a course still in development to be offered in the Spring 2023 semester.**
 
 This course covers the necessary background of neural-network-based deep learning for robot perception – building on advancements in computer vision that enable robots to physically manipulate objects. During the first part of this course, students will learn to implement, train and debug their own neural networks. During the second part of this course, students will explore recent emerging topics in deep learning for robot perception and manipulation. This exploration will include analysis of research publications in the area, building up to reproducing one of these publications for implementation as a final course project.
 
