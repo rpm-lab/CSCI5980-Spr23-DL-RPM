@@ -9,6 +9,7 @@ Feb 21
 Feb 23
 : **Lec 12**{: .label .label-purple }Object Detection
 : [**Paper Selection Due**{: .label .label-red }](/projects/#final-project){: .project-link}
+
 <!-- Feb 10
 : **Dis 6**{: .label .label-blue }[Tensorflow, Keras, Darknet, etc.](#)
  -->
