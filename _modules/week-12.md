@@ -3,11 +3,11 @@ title: Week 12; Data
 ---
 
 Apr 11
-: **Lec 23**{: .label .label-purple }[Self-Supervised Learning](#)
+: **Lec 23**{: .label .label-purple }Self-Supervised Learning
   <!-- : [Solution](#) -->
 
 Apr 13
-: **Lec 24**{: .label .label-purple }[Grasp Pose Detection](#)
+: **Lec 24**{: .label .label-purple }Grasp Pose Detection
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 <!-- Apr 31

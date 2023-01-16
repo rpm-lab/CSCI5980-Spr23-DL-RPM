@@ -3,11 +3,11 @@ title: Week 3
 ---
 
 Jan 31
-: **Lec 5**{: .label .label-purple }[Neural Networks](#)
+: **Lec 5**{: .label .label-purple }Neural Networks
   <!-- : [Solution](#) -->
 
 Feb 02
-: **Lec 6**{: .label .label-purple }[Backpropagation](#)
+: **Lec 6**{: .label .label-purple }Backpropagation
 
 <!-- : **Dis 3**{: .label .label-blue }[Neural Networks in PyTorch](#) -->
 

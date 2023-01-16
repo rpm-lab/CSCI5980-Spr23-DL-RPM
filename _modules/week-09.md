@@ -3,11 +3,11 @@ title: Week 9; Rigid Body Objects
 ---
 
 Mar 21
-: **Lec 17**{: .label .label-purple }[Dense object descriptors, Category-level representations](#)
+: **Lec 17**{: .label .label-purple }Dense object descriptors, Category-level representations
   <!-- : [Solution](#) -->
 
 Mar 23
-: **Lec 18**{: .label .label-purple }[Recurrent Networks, Object Tracking](#)
+: **Lec 18**{: .label .label-purple }Recurrent Networks, Object Tracking
 : [**Project 4 due**{: .label .label-red }](/projects/#project-4){: .project-link} [**Final Project out**{: .label .label-yellow }](/projects/#final-project){: .project-link}
 
 <!-- Mar 10
