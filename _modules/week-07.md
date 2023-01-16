@@ -8,7 +8,8 @@ Feb 28
 
 Mar 02
 : **Lec 14**{: .label .label-purple }RGB-D Architectures
-
+: &nbsp;
+  : [📃 Related Papers](/papers/#rgb-d-architectures){:target="_blank"}
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
   
 <!-- Feb 17

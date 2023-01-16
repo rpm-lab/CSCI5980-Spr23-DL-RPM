@@ -4,6 +4,8 @@ title: Week 14; More Frontiers
 
 Apr 25
 : **Lec 27**{: .label .label-purple }Dynamic Scenes
+: &nbsp;
+  : [📃 Related Papers](/papers/#more-frontiers){:target="_blank"}
   <!-- : [Solution](#) -->
 
 Apr 27
