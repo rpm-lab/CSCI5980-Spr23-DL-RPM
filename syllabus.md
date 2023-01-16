@@ -57,39 +57,66 @@ The second half of the course will switch to seminar style covering following ad
     - Familiarity with concepts from machine learning will be helpful.
   - CSCI 5551 - Introduction to Intelligent Robotic Systems
 
+## Textbook
+
+There is no required textbook for this course, however optional readings will be suggested from the textbook, ["Deep Learning" by Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org){:target="_blank"}.
 
 ## Lectures
 
-Lectures will take place in-person on **Tuesdays and Thursdays from 2:30-3:45 PM CT in room TBD**.
+Lectures will take place in-person on **Tuesdays and Thursdays from 2:30-3:45 PM CT in Rapson Hall 58**. 
+Remote access will be made available for the following reasons:
+- Weather impediment: Zoom link will be sent out via email prior to the lecture
+- Health reasons: Email kdesingh@umn.edu before the lecture with the reason to attend via Zoom, to obtain the meeting ID and password. 
 
-<!-- ## Discussion Sections
+## Discussion Sections
 
-Discussions will take place in-person with remote accessibility (synchronous and asynchronous). 
+There will be no discussion section for this class. However, students are encouraged to see the discussions recorded and posted in [UMich's ROB 498/599 site](https://deeprob.org/calendar/).
 
-In-person discussions will be held on **Fridays from 4:30-5:30 PM EST in room 1060 FMCRB**. -->
+## Programming Projects
+
+You will complete 5 programming [projects](/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
+
+## Final Project
+
+Instead of a final exam at the end of the semester, you will complete a final project working in groups of 1 to 3 students.
+
+The final project will entail five core deliverables: (1) a written review of a paper (2) an in-class paper presentation, (3) reproducing the published results of an existing deep learning paper, (4) extending the chosen paper's methods and (5) documenting your reproduction and extension in a written report.
+
+The objective of the final project is for you to gain experience with state of the art approaches in deep learning and a sense of how research in the area is conducted.
+
+## Quizzes
+
+Throughout the semester, there will be a total of 16 quizzes administered through [gradescope](https://www.gradescope.com/courses/481744){:target="_blank"}. These quizzes will be posted before lecture sections throughout the semester and be available to take until the beginning of lecture that same day. Quizzes will be released at 7:00AM CT and must be submitted by 2:30PM CT. Each quiz will have a 15 minute time limit. Each quiz will consist of 1 or 2 short questions within the scope of previously covered lectures and graded projects.
 
 ## Grading Policy
 
- - Quizzes:  16x1%=16%  
+Course grades will be determined according to the following criteria:
+
  - Project 0:     12%
  - Project 1:     12%
  - Project 2:     12%
  - Project 3:     12%
  - Project 4:     12%
- - Final Project: 24%
+ - Final Project:
+   - Paper Review: 3%
+   - Paper Presentation: 3%
+   - Paper Reproduction: 6%
+   - Algorithmic Extension: 6%
+   - Written Report: 6%
 
-<!-- ## Project List
+ - 16 Pre-Lecture Quizzes: 16% (1% each)
 
-- Project 0 (Week 1): Python refresher and warmup
-- Project 1 (Weeks 2-3): Intro to pytorch, KNN classifier
-- Project 2 (Weeks 4-5): Linear layers, two-layer classifier
-- Project 3 (Weeks 6-7): Fully connected neural networks, convolutional neural networks
-- Project 4 (Weeks 8-10): Autograd, autoencoder, pose estimation
-- Final project (Weeks 11-13): Research paper reproduction, opetions include:
-  - [INeRF](https://arxiv.org/abs/2012.05877)
-  - [DPF: Differentiable Particle Filter](https://arxiv.org/abs/1805.11122)
-  - [GDP: Grasp Pose Detection](https://arxiv.org/abs/1706.09911)
-  - [Implicit Fields for manipulation](https://imrss2022.github.io)
-- Final project (Weeks 14-15): Research paper extension and report
+## Collaboration Policy
 
- -->
+The free flow of discussion and ideas is encouraged. <b> But, everything you turn in must be your own work </b>, and you must note the names of anyone you collaborated with on each problem and cite resources that you used to learn about the problem. If you have any doubts about whether a particular action may be construed as cheating, ask the instructor for clarification before you do it. Cheating in this course will result in a grade of F for course and the [University policies](https://communitystandards.umn.edu/avoid-violations/avoiding-scholastic-dishonesty) will be followed.
+
+No code can be communicated, including verbally. Explicit use of external sources must be clearly cited.
+
+## Students with Disabilities
+If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and [Disability Resources Center](https://disability.umn.edu/) (DRC).
+
+## Discussion Forum
+
+The [Ed Stem](https://edstem.org/us/courses/31008/discussion/){:target="_blank"} discussion forum is available for discussion of course materials including lectures and projects. This forum will be shared across course offerings at the University of Michigan and the University of Minnesota. <b>Students are not required to participate, use or join the Ed Stem forum.</b> Students may opt-in to join the forum using this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSelLeqIUKBxQvqqp6LFs2fSYfzy9D_QCcvtXc302hnm6oF1EA/viewform?usp=sharing){:target="_blank"}.
+
+<b>Any discussion of quizzes and verbatim code on the Ed Stem forum must be posted privately.</b>
