@@ -4,43 +4,43 @@ title: Projects
 description: >-
     Course project outline.
 nav_order: 4
-has_children: false
+has_children: true
 has_toc: false
 ---
 
 # Course Projects
 {:.no_toc}
 
-## Table of contents
+<!-- ## Table of contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
----
+--- -->
 
 
 ## Project 0
 
-Python refresher
+Introduction to Python, PyTorch and Google Colab
 
 ## Project 1
 
-Introduction to pytorch, K-nearest neighbors classification
+Classification using K-Nearest Neighbors and Linear Models
 
 ## Project 2
 
-Linear layers, multi-layer perceptron
+Classification using Fully-connected and Convolutional Neural Networks
 
 ## Project 3
 
-Fully connected neural networks, convolutional neural networks
+Detection using Convolutional Neural Networks
 
 ## Project 4
 
-State estimation with deep learning (autograd, autoencoder, pose codebook)
+State Estimation with Deep Learning
 
 ## Final Project
 
-Published paper reproduction and extension
+Published paper review, presentation, reproduction, extension and report
 
