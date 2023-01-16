@@ -36,7 +36,7 @@ aux_links:
     - 'https://www.gradescope.com/courses/481744'  
   # Office Hours:
   #   - 'https://eecsoh.eecs.umich.edu/queues/2HK9nZeBgJBEPF6k84hbys3PNoK'
-  '<img src="/assets/logos/MnRI_logo.png" class="nav-img">':
+  '<img src="/CSCI5980-Spr23-DeepRob//assets/logos/MnRI_logo.png" class="nav-img">':
     - 'https://cse.umn.edu/mnri'
 
 # Collections for website data
