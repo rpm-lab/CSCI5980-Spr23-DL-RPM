@@ -74,7 +74,7 @@ There will be no discussion section for this class. However, I will link to the 
 
 ## Programming Projects
 
-You will complete 5 programming [projects](/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
+You will complete 5 programming [projects](/CSCI5980-Spr23-DeepRob/projects/) over the course of the semester. All projects will be implemented using Python, Pytorch and Google Colab.
 
 ## Final Project
 
