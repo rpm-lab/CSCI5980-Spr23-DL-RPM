@@ -70,7 +70,7 @@ Remote access will be made available for the following reasons:
 
 ## Discussion Sections
 
-There will be no discussion section for this class. However, students are encouraged to see the discussions recorded and posted in [UMich's ROB 498/599 site](https://deeprob.org/calendar/).
+There will be no discussion section for this class. However, I will link to the discussion posted by instructors from the University of Michigan after every Thursday's lecture to the calendar. Students are encouraged to see view them.
 
 ## Programming Projects
 
