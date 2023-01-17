@@ -29,9 +29,6 @@ The objective of the first project is to gain experience working with the [Pytho
         - <b>Run all cells, and do not clear out the outputs, before submitting.</b> You will only get credit for code that has been run.
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
-<!-- 4. <b>Submit your implementation for Autograder feedback</b>
-    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 0 Autograder](https://autograder.io/web/project/1882){:target="_blank"}. You may submit to the Autograder for feedback up to 2 times per day. -->
-
 4. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `pytorch101.ipynb` notebook will generate a `internetid_umid_P0.zip` file (e.g. `kdesingh_1234567_P0.zip`). The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment.
