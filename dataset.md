@@ -12,7 +12,7 @@ At the core of Deep Learning is a set of computational techniques to identify an
 The PROPS dataset is a downsampled version of data collected from the [ProgressLabeller annotation tool (Chen et al., 2022)](https://arxiv.org/abs/2203.00283){:target="_blank"}. This dataset focuses on table-top scenes that are inspired by the environments a domestic service robot would be expected to encounter. Objects in these scenes are from the [YCB Object and Model Set (Calli et al., 2015)](https://ieeexplore.ieee.org/abstract/document/7251504){:target="_blank"}.
 
 
-[Course projects](/projects/) in DeepRob are built using the PROPS dataset.
+[Course projects](/CSCI5980-Spr23-DeepRob/projects/) in DeepRob are built using the PROPS dataset.
 
 
 ## PROPS Classification
@@ -21,15 +21,15 @@ This portion of the dataset is catered for image classification tasks. The forma
 
 ### Download
 
-The dataset is available for download on [Google Drive ![](/assets/logos/logo_drive_2020q4_color_2x_web_64dp.png){: .text-logo }](https://drive.google.com/file/d/1C8_JFsnPVm392C-S1rH0y4HFfNkdMlXi/view?usp=share_link){:target="_blank"}.
+The dataset is available for download on [Google Drive ![](/CSCI5980-Spr23-DeepRob/assets/logos/logo_drive_2020q4_color_2x_web_64dp.png){: .text-logo }](https://drive.google.com/file/d/1C8_JFsnPVm392C-S1rH0y4HFfNkdMlXi/view?usp=share_link){:target="_blank"}.
 
-We provide the [`PROPSClassificationDataset`](/assets/projects/PROPSClassificationDataset.py), a PyTorch dataset class, to support development with and use of the PROPS Classification dataset.
+We provide the [`PROPSClassificationDataset`](/CSCI5980-Spr23-DeepRob/assets/projects/PROPSClassificationDataset.py), a PyTorch dataset class, to support development with and use of the PROPS Classification dataset.
 
 ### Examples
 
 Sample images of each category in the PROPS Classification dataset are included below:
 
-![](/assets/images/props_classification.jpg){: .data-img }
+![](/CSCI5980-Spr23-DeepRob/assets/images/props_classification.jpg){: .data-img }
 
 
 ## PROPS Detection
