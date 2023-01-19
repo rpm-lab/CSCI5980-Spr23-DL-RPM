@@ -233,8 +233,13 @@ RGB-D Datasets:
 
 - [ProgressLabeller: Visual Data Stream Annotation for Training Object-Centric 3D Perception](https://arxiv.org/abs/2203.00283){:target="_blank"}, Chen et al., 2022
 
-- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
+Collecting data with robots:
 
+- [Deep Learning for Robots: Learning from Large-Scale Interaction](https://ai.googleblog.com/2016/03/deep-learning-for-robots-learning-from.html){:target="_blank"}
+
+- [TossingBot: Learning to Throw Arbitrary Objects](https://tossingbot.cs.princeton.edu/){:target="_blank"}
+
+- [All You Need is LUV: Unsupervised Collection of Labeled Images using Invisible UV Fluorescent Indicators](https://arxiv.org/abs/2203.04566){:target="_blank"}, Thananjeyan et al., 2022
 
 Semantic Datasets:
 
@@ -243,6 +248,8 @@ Semantic Datasets:
 Object Model Datasets:
 
 - [ShapeNet: An Information-Rich 3D Model Repository](https://shapenet.org){:target="_blank"}, Chang et al., 2015
+
+- [PartNet-Mobility Dataset](https://sapien.ucsd.edu/browse){:target="_blank"}
 
 
 Simulators:
@@ -254,6 +261,8 @@ Simulators:
 - [NVIDIA Isaac Sim](https://developer.nvidia.com/isaac-sim){:target="_blank"}
 
 - [Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning](https://arxiv.org/abs/2108.10470){:target="_blank"}, Makoviychuk et al., 2021
+
+- [SAPIEN: A SimulAted Part-based Interactive ENvironment](https://sapien.ucsd.edu/){:target="_blank"}
 
 
 # Self-Supervised Learning
@@ -319,18 +328,21 @@ Simulators:
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf), Li et al., 2022
 
 
-# Transformer Architectures
+# Pre-training for Robot Manipulation and Transformer Architectures
 
 ### Core List
+
+- [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2021
+
+- [Masked Visual Pre-training for Motor Control](https://arxiv.org/abs/2203.06173), Xiao et al., 2022
+
+- [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/abs/2203.12601), Nair et al., 2022
 
 - [CLIPort: What and Where Pathways for Robotic Manipulation](https://arxiv.org/abs/2109.12098){:target="_blank"}, Shridhar et al., 2021
 
 - [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://say-can.github.io/assets/palm_saycan.pdf){:target="_blank"}, Ahn et al., 2022
 
-- [SORNet: Spatial Object-Centric Representations for Sequential Manipulation](https://arxiv.org/abs/2109.03891){:target="_blank"}, Yuan et al., 2022
-
 - [RT-1: Robotics Transformer for Real-World Control at Scale](https://robotics-transformer.github.io/assets/rt1.pdf){:target="_blank"}, Brohan et al., 2022
-
 
 ### Extended List
 
@@ -338,7 +350,11 @@ Simulators:
 
 - [Transformers are Adaptable Task Planners](https://arxiv.org/abs/2207.02442){:target="_blank"}, Jain et al., 2022
 
+- [CLIP: Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020), Radford et al., 2021
 
+- [Masked Autoencoders Are Scalable Vision Learners](https://arxiv.org/abs/2111.06377), He et al., 2021
+
+- [Transporter Networks: Rearranging the Visual World for Robotic Manipulation](https://arxiv.org/abs/2010.14406), Zeng et al., 2020
 
 
 # More Frontiers
