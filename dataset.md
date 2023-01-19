@@ -29,7 +29,7 @@ We provide the [`PROPSClassificationDataset`](/CSCI5980-Spr23-DeepRob/assets/pro
 
 Sample images of each category in the PROPS Classification dataset are included below:
 
-![](/CSCI5980-Spr23-DeepRob/assets/images/props_classification.jpg){: .data-img }
+![](/CSCI5980-Spr23-DeepRob/assets/images/props_classification.jpeg){: .data-img }
 
 
 ## PROPS Detection
