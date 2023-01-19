@@ -264,6 +264,10 @@ Simulators:
 
 - [SAPIEN: A SimulAted Part-based Interactive ENvironment](https://sapien.ucsd.edu/){:target="_blank"}
 
+- [Habitat](https://aihabitat.org/){:target="_blank"}
+
+- [iGibson: Interactive Simulation of Large Scale Virtualized Realistic Scenes for Robot Learning](https://svl.stanford.edu/igibson/){:target="_blank"}
+
 
 # Self-Supervised Learning
 
