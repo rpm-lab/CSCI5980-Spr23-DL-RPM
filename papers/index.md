@@ -7,8 +7,10 @@ has_children: false
 has_toc: true
 ---
 
-# Research Papers
+# Deep Learning Research Papers for Robot Perception, Grasping and Manipulation
 {:.no_toc}
+
+A collection of deep learning research papers with coverage in perception and associated robotic tasks. Within each research area outlined below, the course staff has identified a *core* and *extended* set of research papers. The *core* set of papers will form the basis of our seminar-style lectures starting in [week 7](CSCI5980-Spr23-DeepRob/calendar/#week-7). The *extended* set provides additional coverage of even more exciting work being done within each area.
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -194,6 +196,7 @@ has_toc: true
 
 - [NARF22: Neural Articulated Radiance Fields for Configuration-Aware Rendering](https://arxiv.org/abs/2210.01166){:target="_blank"}, Lewis et al., 2022
 
+- [Learning Multi-Object Dynamics with Compositional Neural Radiance Fields](https://arxiv.org/abs/2202.11855), Driess et al., 2022
 
 ### Extended List
 
