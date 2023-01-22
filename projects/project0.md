@@ -34,7 +34,8 @@ The objective of the first project is to gain experience working with the [Pytho
     - The last cell of the `pytorch101.ipynb` notebook will generate a `internetid_umid_P0.zip` file (e.g. `kdesingh_1234567_P0.zip`). The zip file should include `pytorch101.ipynb` and `pytorch101.py` for this assignment.
 
 5. <b>Submit your python and notebook files for grading</b>
-    - A link will be made available for submitting you code. Watch out for the announcement soon.
+    - Use this [google-form](https://rpm-lab.github.io/CSCI5980-Spr23-DeepRob/calendar/) to submit your code.  
+<!--     - A link will be made available for submitting you code. Watch out for the announcement soon. -->
     <!-- - Upload your files to the [Autograder](https://autograder.io/web/project/1882){:target="_blank"} for grading consideration. Your highest score will be used for final grades. -->
 
 ## Deadline
