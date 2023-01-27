@@ -4,7 +4,7 @@ title: Week 3
 
 Jan 31
 : **Lec 5**{: .label .label-purple }Neural Networks
-: [**Final Project Topic due**{: .label .label-orange }](https://forms.gle/gFqXKZjGX7UUfhaR9){: .project-link target="_blank" }
+: [**Final Project Topic due**{: .label .label-red }](https://forms.gle/gFqXKZjGX7UUfhaR9){: .project-link target="_blank" }
 
   <!-- : [Solution](#) -->
 
