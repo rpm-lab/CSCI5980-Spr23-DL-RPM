@@ -18,6 +18,9 @@ Jan 26
   : [📖 Li et al., Visualizing Loss Landscaps](https://arxiv.org/abs/1712.09913){:target="_blank"}
 : &nbsp;
   : [📖 Goh, Why Momentum Really Works](https://distill.pub/2017/momentum/){:target="_blank"}
-  
+
+Jan 27
+: [**Final Project Topic out**{: .label .label-orange }](https://forms.gle/gFqXKZjGX7UUfhaR9){: .project-link target="_blank" }
+
 <!-- : **Dis 2**{: .label .label-blue }[Intro to PyTorch](#)
   : [Tutorial Code](https://pytorch.org/tutorials/beginner/basics/intro.html), [Tutorial Slides](#) -->
