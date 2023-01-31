@@ -3,9 +3,15 @@ title: Week 3
 ---
 
 Jan 31
-: **Lec 5**{: .label .label-purple }Neural Networks
-: [**Final Project Topic due**{: .label .label-red }](https://forms.gle/gFqXKZjGX7UUfhaR9){: .project-link target="_blank" }
-
+: **Lec 5**{: .label .label-purple }[Neural Networks](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_05_neural_networks.pdf){: target="_blank" }
+: [**Final Project Topic List by Students**{: .label .label-red }](https://docs.google.com/spreadsheets/d/1sk_ZAVoew_V6lGCP-ndfbNH_rkOEIxcqhhJfqQo3V7s/edit?usp=sharing){: .project-link target="_blank" }
+: &nbsp;
+  : [📖 231n Neural Networks](https://cs231n.github.io/neural-networks-1/){:target="_blank"}
+: &nbsp;
+  : [📖 GBC Sec 6.1-6.4](https://www.deeplearningbook.org/contents/mlp.html){:target="_blank"}
+: &nbsp;
+  : [📖 Nielsen, Universal Approximation](http://neuralnetworksanddeeplearning.com/chap4.html){:target="_blank"}
+  
   <!-- : [Solution](#) -->
 
 Feb 02
