@@ -15,8 +15,15 @@ Jan 31
   <!-- : [Solution](#) -->
 
 Feb 02
-: **Lec 6**{: .label .label-purple }Backpropagation
+: **Lec 6**{: .label .label-purple }[Backpropagation](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_06_backpropagation.pdf){: target="_blank" }
+  : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/EHfOo_GPTQY){:target="_blank"}
 : [**Quiz 2**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
+  : [📖 cs231n Backpropagation](https://cs231n.github.io/optimization-2/){:target="_blank"}
+: &nbsp;
+  : [📖 GBC Sec 6.5-6.6](https://www.deeplearningbook.org/contents/mlp.html#pf25){:target="_blank"}
+: &nbsp;
+  : [📖 Olah, Backpropagation](http://colah.github.io/posts/2015-08-Backprop/){:target="_blank"}
+
 
 <!-- : **Dis 3**{: .label .label-blue }[Neural Networks in PyTorch](#) -->
 
