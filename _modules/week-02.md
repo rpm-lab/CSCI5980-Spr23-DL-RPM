@@ -4,6 +4,7 @@ title: Week 2
 
 Jan 24
 : **Lec 3**{: .label .label-purple }[Linear Classifiers](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_03_linear_classifiers.pdf)
+  : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/Plv98lmLsyc){:target="_blank"}
 : [**Project 0 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/project0/){: .project-link} [**Project 1 out**{: .label .label-yellow }](/CSCI5980-Spr23-DeepRob/projects/project1/){: .project-link}
 : [UMich discussion link - Intro to PROPS dataset](https://youtu.be/xvQTDdCRjiU)
   : [📖 Chen et al., ProgressLabeller](https://arxiv.org/abs/2203.00283){:target="_blank"}
