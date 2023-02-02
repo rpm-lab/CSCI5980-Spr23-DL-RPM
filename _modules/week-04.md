@@ -10,6 +10,7 @@ Feb 07
 
 Feb 09
 : **Lec 8**{: .label .label-purple }CNN Architectures
+: [**Quiz 4**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
 
 <!-- Jan 27
 : **Dis 4**{: .label .label-blue }[Optimization in PyTorch](#) -->
