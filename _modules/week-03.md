@@ -16,6 +16,7 @@ Jan 31
 
 Feb 02
 : **Lec 6**{: .label .label-purple }Backpropagation
+: [**Quiz 2**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
 
 <!-- : **Dis 3**{: .label .label-blue }[Neural Networks in PyTorch](#) -->
 
