@@ -1,5 +1,5 @@
 ---
-title: Week 9; 3D Perception
+title: Week 8; 3D Perception
 ---
   
 Mar 14
