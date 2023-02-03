@@ -10,7 +10,7 @@ Apr 04
 
 Apr 06
 : **Lec 22**{: .label .label-purple }Student Paper Review Presentation
-: [**Final Project Checkpoint**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
+: &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   
 <!-- Mar 24

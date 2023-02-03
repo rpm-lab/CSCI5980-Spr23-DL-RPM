@@ -4,7 +4,7 @@ title: Week 12; Data
 
 Apr 11
 : **Lec 23**{: .label .label-orange }Final Project Checkpoint Presentations
-
+: [**Final Project Checkpoint**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
   <!-- : [Solution](#) -->
 
 Apr 13
