@@ -10,7 +10,7 @@ Mar 14
 
 
 Mar 16
-: **Lec 16**{: .label .label-purple }Guest Lecture by [Prof. Yu Xiang](https://yuxng.github.io/) - University of Texas at Dallas
+: **Lec 16**{: .label .label-purple }**Guest Lecture by [Prof. Yu Xiang](https://yuxng.github.io/) - University of Texas at Dallas**{: .label .label-green }
 
 <!-- : &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/#object-pose-geometry-sdf-implicit-surfaces){:target="_blank"}   -->
