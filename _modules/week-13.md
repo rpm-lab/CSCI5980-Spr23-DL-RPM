@@ -3,15 +3,15 @@ title: Week 13; Perception for Manipulation
 ---
 
 Apr 18
-: **Lec 25**{: .label .label-purple }Transformer Architectures
+: **Lec 25**{: .label .label-purple }Student Paper Review Presentation
 : &nbsp;
-  : [📃 Related Papers](/papers/#transformer-architectures){:target="_blank"}
+  : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   <!-- : [Solution](#) -->
 
 Apr 20
-: **Lec 26**{: .label .label-purple }Articulated and Deformable Objects
+: **Lec 26**{: .label .label-purple }Student Paper Review Presentation
 : &nbsp;
-  : [📃 Related Papers](/papers/#more-frontiers){:target="_blank"}
+  : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
 
 <!-- Apr 7

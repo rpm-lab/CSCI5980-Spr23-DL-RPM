@@ -7,9 +7,10 @@ Feb 28
   <!-- : [Solution](#) -->
 
 Mar 02
-: **Lec 14**{: .label .label-purple }RGB-D Architectures
-: [**Final Project Proposal Due**{: .label .label-red }](/projects/#final-project){: .project-link}
-  : [📃 Related Papers](/papers/#rgb-d-architectures){:target="_blank"} 
+: **Lec 14**{: .label .label-purple }Student Paper Review Presentation
+: [**Final Project Proposal Due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
+  : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"} 
+  
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
   
 <!-- Feb 17
