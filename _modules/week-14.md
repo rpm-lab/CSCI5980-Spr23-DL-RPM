@@ -9,9 +9,11 @@ Apr 25
   <!-- : [Solution](#) -->
 
 Apr 27
+: [**Final Project Presentations**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
+
 <!-- : **Lec 29**{: .label .label-purple }Course Closure -->
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
-: [**Final Project Presentations**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
+
 
 <!-- Apr 14
 : **Dis 14**{: .label .label-blue }[Paper discussion: Remaining Challenges and Limitations](#) -->
