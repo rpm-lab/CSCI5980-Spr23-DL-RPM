@@ -9,7 +9,7 @@ Mar 21
   <!-- : [Solution](#) -->
 
 Mar 23
-: **Lec 18**{: .label .label-purple }**Guest Lecture by [Mohit Shridhar](https://mohitshridhar.com/) - University of Washington at Seattle**{: .label .label-green }
+: **Lec 18**{: .label .label-purple }[**Guest Lecture by Mohit Shridhar - University of Washington at Seattle**{: .label .label-green }](https://mohitshridhar.com/)
 : [**Project 4 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#project-4){: .project-link} [**Final Project out**{: .label .label-yellow }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
   
   <!-- : [📃 Related Papers](/papers/#recurrent-networks-and-object-tracking){:target="_blank"} -->
