@@ -1,5 +1,5 @@
 ---
-title: Week 12; Data
+title: Week 12
 ---
 
 Apr 11

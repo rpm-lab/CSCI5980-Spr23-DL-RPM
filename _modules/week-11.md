@@ -1,5 +1,5 @@
 ---
-title: Week 11; Scene-Level Representations
+title: Week 11
 ---
 
 Apr 04

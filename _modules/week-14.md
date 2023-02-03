@@ -1,5 +1,5 @@
 ---
-title: Week 14; More Frontiers
+title: Week 14
 ---
 
 Apr 25

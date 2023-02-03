@@ -1,5 +1,5 @@
 ---
-title: Week 10; Object Tracking
+title: Week 10
 ---
 
 Mar 28

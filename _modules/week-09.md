@@ -1,5 +1,5 @@
 ---
-title: Week 9; Rigid Body Objects
+title: Week 9
 ---
 
 Mar 21

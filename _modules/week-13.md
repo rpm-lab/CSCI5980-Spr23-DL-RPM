@@ -1,5 +1,5 @@
 ---
-title: Week 13; Perception for Manipulation
+title: Week 13
 ---
 
 Apr 18
