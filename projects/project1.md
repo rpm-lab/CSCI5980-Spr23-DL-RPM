@@ -48,8 +48,8 @@ The objective of this project is to gain experience building a machine learning 
     - The last cell of the `linear_classifier.ipynb` notebook will generate a `uniqueid_umid_P1.zip` file. The zip file should include `knn.ipynb`, `knn.py`, `linear_classifier.ipynb`, `linear_classifier.py`, `svm_best_model.pt`, and `softmax_best_model.pt` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - <b>Autograder link will be made available soon!</b>
-<!--     - Upload your files to the [Autograder](https://autograder.io/web/project/1953){:target="_blank"} for grading consideration. Your highest score will be used for final grades. -->
+<!--     - <b>Autograder link will be made available soon!</b> -->
+    - Upload your files to the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/1){:target="_blank"} for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
@@ -57,5 +57,5 @@ This project is due on <b>Tuesday, February 7th at 11:59pm CT</b>. We suggest st
 
 ## Grading
 
-This project will be graded by the [Autograder]. The project is worth a total of 95 points. You may submit to the Autograder for feedback up to 2 times per day.
+This project will be graded by the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/1). The project is worth a total of 95 points. You may submit to the Autograder for feedback up to 4 times per day.
 
