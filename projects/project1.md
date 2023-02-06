@@ -40,16 +40,15 @@ The objective of this project is to gain experience building a machine learning 
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-    - <b>Autograder link will be made available soon! But you should still get started on the project before hand.</b>
-<!--     - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 1 Autograder](https://autograder.io/web/project/1953){:target="_blank"}. You may submit to the Autograder for feedback up to 2 times per day. -->
+
+    - Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 1 Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/1){:target="_blank"}. You may submit to the Autograder for feedback up to 4 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `linear_classifier.ipynb` notebook will generate a `uniqueid_umid_P1.zip` file. The zip file should include `knn.ipynb`, `knn.py`, `linear_classifier.ipynb`, `linear_classifier.py`, `svm_best_model.pt`, and `softmax_best_model.pt` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-<!--     - <b>Autograder link will be made available soon!</b> -->
-    - Upload your files to the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/1){:target="_blank"} for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/1) for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
