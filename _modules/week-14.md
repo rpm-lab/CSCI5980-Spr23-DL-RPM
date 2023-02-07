@@ -8,5 +8,5 @@ Apr 25
   <!-- : [Solution](#) -->
 
 Apr 27
-: [**Final Project Presentations**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
+: [**Final Project Presentations**{: .label .label-orange }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
 

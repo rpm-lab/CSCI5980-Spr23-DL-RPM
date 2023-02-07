@@ -3,7 +3,7 @@ title: Week 8
 ---
   
 Mar 14
-: **Lec 15**{: .label .label-purple }Final Project Pitches  
+: **Lec 15**{: .label .label-purple }[**Final Project Pitches**{: .label .label-orange }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
 : [**Project 3 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#project-3){: .project-link} [**Project 4 out**{: .label .label-yellow }](/CSCI5980-Spr23-DeepRob/projects/#project-4){: .project-link}
 
   <!-- : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"} -->
