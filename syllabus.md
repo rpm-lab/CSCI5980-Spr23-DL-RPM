@@ -99,10 +99,10 @@ Course grades will be determined according to the following criteria:
  - Project 4:     12%
  - Final Project:
    - Project proposal document: 2%
-   - In-class presentation on research topic-paper(s): 5%
+   - In-class presentation on research topic-paper(s): 4%
    - Paper Reproduction: 12%
       - Algorithmic extension to obtain results on new data/idea/technique
-   - Video and poster: 3%
+   - Video and poster: 4%
    - Final report: 2%
  - 16 Pre-Lecture Quizzes: 16% (1% each)
 
