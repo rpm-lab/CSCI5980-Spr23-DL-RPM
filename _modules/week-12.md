@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Apr 11
-: **Lec 23**{: .label .label-purple }[**Final Project Checkpoint Presentations**{: .label .label-orange }]
+: **Lec 23**{: .label .label-purple }**Final Project Checkpoint Presentations**{: .label .label-orange }
 : [**Final Project Checkpoint**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
   <!-- : [Solution](#) -->
 
