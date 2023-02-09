@@ -4,7 +4,7 @@ title: Week 6
 
 Feb 21
 : **Lec 11**{: .label .label-purple }Deep Learning Software
-: [**Project 2 due**{: .label .label-red }](/projects/#project-2){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link} 
+: [**Project 2 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/project2/){: .project-link} [**Project 3 out**{: .label .label-yellow }](/projects/#project-3){: .project-link} 
 
 Feb 23
 : **Lec 12**{: .label .label-purple }Object Detection
