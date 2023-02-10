@@ -21,7 +21,7 @@ The objective of this project is to gain experience building and training neural
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - Project 2 starter code sent via email.
+    - Project 2 starter code [zip file](https://drive.google.com/file/d/1Wd37g61OrZJ6FfbfoeYM6ASliDka2loJ/view?usp=share_link).
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P2'. The 'P2' directory contains all starter code and files needed to complete this project. Please upload the 'P2' directory to your [Google Drive](https://drive.google.com/){: target="_blank" rel="noopener noreferrer"}.
