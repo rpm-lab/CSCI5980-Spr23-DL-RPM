@@ -39,14 +39,14 @@ The objective of this project is to gain experience building and training neural
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 2 Autograder]. You may submit to the Autograder for feedback up to 5 times per day.
+	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 2 Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/2). You may submit to the Autograder for feedback up to 5 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `fully_connected_networks.ipynb` notebook will generate a `uniqueid_umid_P2.zip` file. The zip file should include `two_layer_net.ipynb`, `two_layer_net.py`, `fully_connected_networks.ipynb`, `fully_connected_networks.py`, `nn_best_model.pt`, `best_overfit_five_layer_net.pth`, and `best_two_layer_net.pth` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the [Autograder] for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/2) for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
@@ -54,5 +54,5 @@ This project is due on <b>Tuesday, February 21st at 11:59pm CT</b>. We suggest s
 
 ## Grading
 
-This project will be graded by the [Autograder]. The project is worth a total of 110 points. You may submit to the Autograder for feedback up to 5 times per day.
+This project will be graded by the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/2). The project is worth a total of 110 points. You may submit to the Autograder for feedback up to 5 times per day.
 
