@@ -14,9 +14,12 @@ Feb 14
   <!-- : [Solution](#) -->
 
 Feb 16
-: **Lec 10**{: .label .label-purple }Training Neural Networks II
+: **Lec 10**{: .label .label-purple }[Training Neural Networks II](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_10_training_neural_networks_2.pdf){: target="_blank" rel="noopener noreferrer"}
 : [**Quiz 6**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
-
+  : [📖 cs231n Training II](https://cs231n.github.io/neural-networks-3/){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Goodfellow et al., Adversarial Examples](https://arxiv.org/abs/1412.6572){: target="_blank" rel="noopener noreferrer"}
+  
 <!-- Feb 3
 : **Dis 5**{: .label .label-blue }[Training CNNs in PyTorch](#)
  -->
