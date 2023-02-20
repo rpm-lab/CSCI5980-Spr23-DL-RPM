@@ -8,6 +8,8 @@ Feb 21
 
 Feb 23
 : **Lec 12**{: .label .label-purple }Object Detection
+
+Feb 24
 : [**Paper Selection Due**{: .label .label-red }](/projects/#final-project){: .project-link}
 
 <!-- Feb 10
