@@ -3,9 +3,7 @@ title: Week 14
 ---
 
 Apr 25
-: **Lec 27**{: .label .label-purple }Student Paper Review Presentation
-: &nbsp;
-  : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
+: **Lec 27**{: .label .label-purple }[**Guest Lecture by Sai Vemprala - Microsoft, Seattle**{: .label .label-green }](https://www.saihv.com/)
 
   <!-- : [Solution](#) -->
 
