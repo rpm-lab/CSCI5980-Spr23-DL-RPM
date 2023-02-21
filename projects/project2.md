@@ -15,7 +15,7 @@ The objective of this project is to gain experience building and training neural
  - Generalize your network implementation to fully connected layers.
  - Implement the forward and backward pass for a non-linear activation function (ReLU).
  - Implement and understand the tradeoffs using network regularization techniques.
- - Understand the characteristics of neural network based classification using the [PROPS Classification Dataset](/CSCI5980-Spr23-DeepRob/dataset/#props-classification).
+ - Understand the characteristics of neural network based classification using the [PROPS Classification Dataset](/CSCI5980-Spr23-DeepRob/datasets/props-classification/).
 
 
 ## Instructions
