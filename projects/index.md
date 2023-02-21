@@ -32,7 +32,7 @@ Classification using K-Nearest Neighbors and Linear Models
 
 Classification using Fully-connected and Convolutional Neural Networks
 
-## Project 3
+## [Project 3](/CSCI5980-Spr23-DeepRob/projects/project3/)
 
 Detection using Convolutional Neural Networks
 
