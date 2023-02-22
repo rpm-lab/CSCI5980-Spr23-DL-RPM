@@ -18,9 +18,10 @@ Feb 21
 
 Feb 23
 : **Lec 12**{: .label .label-purple }Object Detection
+: [**Quiz 8**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
 
 Feb 24
-: [**Paper Selection Due**{: .label .label-red }](/projects/#final-project){: .project-link}
+: [**Paper Selection Due**{: .label .label-red }](https://docs.google.com/spreadsheets/d/1sk_ZAVoew_V6lGCP-ndfbNH_rkOEIxcqhhJfqQo3V7s/edit?usp=sharing){: .project-link}
 
 <!-- Feb 10
 : **Dis 6**{: .label .label-blue }[Tensorflow, Keras, Darknet, etc.](#)
