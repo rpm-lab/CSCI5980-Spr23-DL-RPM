@@ -17,8 +17,14 @@ Feb 21
 
 
 Feb 23
-: **Lec 12**{: .label .label-purple }Object Detection
+: **Lec 12**{: .label .label-purple }[Object Detection](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_minn_deeprob_12_object_detection.pdf)
 : [**Quiz 8**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
+  : [📖 Girshick et al., R-CNN](https://arxiv.org/abs/1311.2524){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Redmon et al., YOLO](https://arxiv.org/abs/1506.02640){: target="_blank" rel="noopener noreferrer"}
+: &nbsp;
+  : [📖 Lin et al., FCOS](https://arxiv.org/abs/1708.02002){: target="_blank" rel="noopener noreferrer"}
+
 
 Feb 24
 : [**Paper Selection Due**{: .label .label-red }](https://docs.google.com/spreadsheets/d/1sk_ZAVoew_V6lGCP-ndfbNH_rkOEIxcqhhJfqQo3V7s/edit?usp=sharing){: .project-link}
