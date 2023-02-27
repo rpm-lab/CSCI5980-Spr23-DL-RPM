@@ -4,7 +4,7 @@ title: Week 7
 
 Feb 28
 : **Lec 13**{: .label .label-purple }Object Detection and Semantic Segmentation
-: [**Quiz 8**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
+: [**Quiz 9**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
   <!-- : [Solution](#) -->
 
 Mar 02
