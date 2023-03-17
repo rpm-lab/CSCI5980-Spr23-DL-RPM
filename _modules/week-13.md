@@ -3,13 +3,13 @@ title: Week 13
 ---
 
 Apr 18
-: **Lec 25**{: .label .label-purple }Student Paper Review Presentation
+: **Lec 25**{: .label .label-purple }Student Lecture - Tactile Perception for Robot Grasping and Manipulation
 : &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   <!-- : [Solution](#) -->
 
 Apr 20
-: **Lec 26**{: .label .label-purple }Student Paper Review Presentation
+: **Lec 26**{: .label .label-purple }Student Lecture - Visual-Language Models, Policy Learning for Robot Manipulation
 : &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->

@@ -8,7 +8,7 @@ Apr 11
   <!-- : [Solution](#) -->
 
 Apr 13
-: **Lec 24**{: .label .label-purple }Student Paper Review Presentation
+: **Lec 24**{: .label .label-purple }Student Lecture - Visual Odometry and Localization
 : &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
