@@ -39,7 +39,7 @@ The objective of this project is to gain experience building and training convol
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 3 Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/3). You may submit to the Autograder for feedback up to 2 times per day.
+	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 3 Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/3). You may submit to the Autograder for feedback up to 5 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
@@ -50,7 +50,7 @@ The objective of this project is to gain experience building and training convol
 
 ## Deadline
 
-This project is due on <b>Thursday, March 16th at 11:59pm CT</b>. We suggest starting as soon as possible.
+This project is due on <b>Tuesday, March 21st at 11:59pm CT</b>. We suggest starting as soon as possible.
 
 ## Grading
 
