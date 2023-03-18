@@ -6,7 +6,7 @@ Mar 28
 : **Lec 19**{: .label .label-purple }Student Lecture - Object Tracking, Transformers
 : &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
-: [**Project 4 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#project-4){: .project-link}
+: [**Project 4 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/project4){: .project-link}
   <!-- : [Solution](#) -->
 
 Mar 30

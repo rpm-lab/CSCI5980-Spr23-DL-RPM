@@ -6,7 +6,7 @@ Mar 21
 : **Lec 17**{: .label .label-purple }Student Lecture - Rigid Object Perception, Category-level Object Pose Estimation
 : &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
-: [**Project 3 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#project-3){: .project-link} 
+: [**Project 3 due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/project3){: .project-link} 
 : [**Quiz 10**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }  
   <!-- : [Solution](#) -->
 

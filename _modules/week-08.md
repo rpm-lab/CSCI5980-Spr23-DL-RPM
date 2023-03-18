@@ -12,7 +12,7 @@ Mar 14
 Mar 16
 : **Lec 16**{: .label .label-purple }[**Guest Lecture by Prof. Yu Xiang - University of Texas at Dallas**{: .label .label-green }](https://yuxng.github.io/)
   : [📃 Slides](/CSCI5980-Spr23-DeepRob/assets/slides/unseen_segmentation_xiang_03162023.pdf){:target="_blank"}
-: [**Project 4 out**{: .label .label-yellow }](/CSCI5980-Spr23-DeepRob/projects/#project-4){: .project-link}
+: [**Project 4 out**{: .label .label-yellow }](/CSCI5980-Spr23-DeepRob/projects/project4/){: .project-link}
 
 <!-- : &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/#object-pose-geometry-sdf-implicit-surfaces){:target="_blank"}   -->

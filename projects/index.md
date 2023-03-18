@@ -36,7 +36,7 @@ Classification using Fully-connected and Convolutional Neural Networks
 
 Detection using Convolutional Neural Networks
 
-## Project 4
+## [Project 4](/CSCI5980-Spr23-DeepRob/projects/project4/)
 
 State Estimation with Deep Learning
 
