@@ -31,18 +31,43 @@ This course builds on and is indebted to these existing courses (as a “star”
 
 The first half of the course will cover deep learning fundamentals in computer vision catered to robot perception problems.
 
+- Image classification
 - Linear classifiers
-- Stochastic gradient descent
-- Fully-connected networks
-- Convolutional networks
-- Pose estimation
+- Regularization and optimization
+- Neural networks
+- Backpropagation
+- Convolutional neural networks
+- CNN architectures
+- Training neural networks
+- Deep learning software (PyTorch)
+- Object detection
+- Semantic segmentation 
+
 
 The second half of the course will switch to seminar style covering following advanced topics in robot perception and manipulation via discussing publications.
 
-- 3D vision in robotics
-- Object perception for robot manipulation
-- Neural radiance fields for perception
-- Robot grasp pose detection
+- RGBD perception and network architectures
+  - RGBD sensor data processing
+  - RGBD datasets and applications
+  - Object segmentation using RGBD data
+- Object perception
+  - Rigid object perception
+  - Instance-level object pose estimation
+  - Category-level object pose Estimation
+  - Dense object descriptors
+- 3D perception
+  - Neural network architectures for 3D data (PointNet and PointNet++)
+  - Implicit surfaces and geometry
+  - Neural radiance fields (NeRF)
+  - Object descriptor fields for grasping and manipulation
+- Temporal networks and object tracking
+- Transformer architecture(s)
+- Visual pre-training for robot manipulation
+- Visual odometry and localization
+- Tactile perception for robot grasping and manipulation
+- Visual-Language models
+- Policy learning for robot manipulation
+
 
 ## Prerequisites
 
