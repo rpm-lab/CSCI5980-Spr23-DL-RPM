@@ -18,6 +18,7 @@ Mar 02
   : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/tSjI6U4iGGE){:target="_blank"}
 : [**Final Project Proposal Due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"} 
+: [**Quiz 10**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }  
   
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
   

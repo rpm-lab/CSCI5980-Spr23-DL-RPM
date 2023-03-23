@@ -15,8 +15,6 @@ The objective of this project is to gain experience building and training convol
  - Understand the characteristics of neural network based object pose estimation using the [PROPS Pose Dataset](/CSCI5980-Spr23-DeepRob/datasets/props-pose/).
  - Gain experience reimplementing network architectures by translating from text and figure descriptions to code implementations.
 
-These instructions will be updated and an official canvas announcement will be made once the Project 4 Autograder is online.
-
 
 ## Instructions
 
@@ -39,19 +37,19 @@ These instructions will be updated and an official canvas announcement will be m
         - To avoid experiencing Colab usage limits, save and close your notebooks once finished working.
 
 4. <b>Submit your implementation for Autograder feedback</b>
-	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the Project 4 Autograder. You may submit to the Autograder for feedback up to 2 times per day.
+	- Once you have implemented a portion of the required features, you may submit your work for feedback from the Autograder. To receive feedback, download your `*.ipynb` and `*.py` files then upload them to the [Project 4 Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/4). You may submit to the Autograder for feedback up to 5 times per day.
 
 5. <b>Download final implementation</b>
     - After implementing all features, <b>save your work</b> and download the completed `*.ipynb` and `*.py` files. 
     - The last cell of the `pose_estimation.ipynb` notebook will generate a `uniqueid_umid_P4.zip` file. The zip file should include `pose_estimation.ipynb`, and `pose_cnn.py` for this assignment.
 
 6. <b>Submit your python and notebook files for grading</b>
-    - Upload your files to the Autograder for grading consideration. Your highest score will be used for final grades.
+    - Upload your files to the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/4) for grading consideration. Your highest score will be used for final grades.
 
 ## Deadline
 
-This project is due on <b>Tuesday, March 28rd at 11:59pm CT</b>. We suggest starting as soon as possible.
+This project is due on <b>Thursday, March 30th at 11:59pm CT</b>. We suggest starting as soon as possible.
 
 ## Grading
 
-This project will be graded by the Autograder (will be made available soon).
+This project will be graded by the [Autograder](https://cse-ag-csci5980.cs.umn.edu/web/project/4).
