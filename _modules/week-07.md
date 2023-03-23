@@ -15,7 +15,7 @@ Feb 28
 
 Mar 02
 : **Lec 14**{: .label .label-purple }[Student Lecture - RGB-D Perception and Network Architectures](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_14_rgbd_perception_architectures.pdf)
-  : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/tSjI6U4iGGE){:target="_blank"}
+  : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording (umn.edu reqd)**](https://drive.google.com/file/d/1UE3GVn4YvlLjOER6vdNzbWgQ4NWX1n6E/view?usp=share_link){:target="_blank"}
 : [**Final Project Proposal Due**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"} 
 : [**Quiz 10**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }  
