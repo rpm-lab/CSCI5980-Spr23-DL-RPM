@@ -3,12 +3,12 @@ title: Week 12
 ---
 
 Apr 11
-: **Lec 23**{: .label .label-purple }**Final Project Checkpoint Presentations**{: .label .label-orange }
+: **Final Project Checkpoint Presentations**{: .label .label-orange }
 : [**Final Project Checkpoint**{: .label .label-red }](/CSCI5980-Spr23-DeepRob/projects/#final-project){: .project-link}
   <!-- : [Solution](#) -->
 
 Apr 13
-: **Lec 24**{: .label .label-purple }Student Lecture - Visual Odometry and Localization
+: **Lec 20**{: .label .label-purple }Student Lecture - Visual Odometry and Localization
 : [**Quiz 16**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   <!-- : [3.1](#), [2.2](#), [2.3](#) -->
