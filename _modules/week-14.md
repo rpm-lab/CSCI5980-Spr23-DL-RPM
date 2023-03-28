@@ -3,7 +3,7 @@ title: Week 14
 ---
 
 Apr 25
-: [**Guest Lecture by Sai Vemprala - Microsoft, Seattle**{: .label .label-green }](https://www.saihv.com/)
+: **Guest Lecture**{: .label .label-green }[Dr. Sai Vemprala - Microsoft, Seattle](https://www.saihv.com/)
 
   <!-- : [Solution](#) -->
 

@@ -12,10 +12,10 @@ Mar 21
   <!-- : [Solution](#) -->
 
 Mar 23
-: [**Guest Lecture by Mohit Shridhar - University of Washington at Seattle**{: .label .label-green }](https://mohitshridhar.com/)
-  : [📃 Slides](/CSCI5980-Spr23-DeepRob/assets/slides/acting_with_perception_and_language_(mohit_shridhar).pdf){:target="_blank"}
-: &nbsp;  
+: **Guest Lecture**{: .label .label-green } [Mohit Shridhar - University of Washington at Seattle](https://mohitshridhar.com/)
   : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/6H_5AKGJNDc){:target="_blank"}  
+: &nbsp;  
+  : [📃 Slides](/CSCI5980-Spr23-DeepRob/assets/slides/acting_with_perception_and_language_(mohit_shridhar).pdf){:target="_blank"}
   
   <!-- : [📃 Related Papers](/papers/#recurrent-networks-and-object-tracking){:target="_blank"} -->
   

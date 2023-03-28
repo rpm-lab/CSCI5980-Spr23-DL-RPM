@@ -10,7 +10,7 @@ Mar 14
 
 
 Mar 16
-: [**Guest Lecture by Prof. Yu Xiang - University of Texas at Dallas**{: .label .label-green }](https://yuxng.github.io/)
+: **Guest Lecture**{: .label .label-green } [Prof. Yu Xiang - University of Texas at Dallas](https://yuxng.github.io/)
   : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording**](https://youtu.be/IXcevNzuYDE){:target="_blank"}
 : [**Project 4 out**{: .label .label-yellow }](/CSCI5980-Spr23-DeepRob/projects/project4/){: .project-link}
   : [📃 Slides](/CSCI5980-Spr23-DeepRob/assets/slides/unseen_segmentation_xiang_03162023.pdf){:target="_blank"}
