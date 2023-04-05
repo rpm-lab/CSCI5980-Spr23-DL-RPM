@@ -4,9 +4,10 @@ title: Week 10
 
 Mar 28
 : **Lec 16**{: .label .label-purple }[Student Lecture - Object Tracking, Transformers](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_16_transformers_object_tracking.pdf)
-: &nbsp;
-  : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
+  : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording (umn.edu reqd)**](https://drive.google.com/file/d/15jAw8WvFD31F_xm4h0ljcrQeOZH3qOkB/view?usp=share_link){:target="_blank"}
 : [**Quiz 12**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
+  : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
+
   <!-- : [Solution](#) -->
 
 Mar 30
