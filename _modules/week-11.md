@@ -4,9 +4,10 @@ title: Week 11
 
 Apr 04
 : **Lec 18**{: .label .label-purple }[Student Lecture - NeRFs and their variants](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_18_NeRF_variants.pdf)
+  : [![](/CSCI5980-Spr23-DeepRob/assets/logos/yt_icon_rgb.png){: .module-logo } **Recording (umn.edu reqd)**](https://drive.google.com/file/d/1KerkXYDJSgl0DOb3IRL3UqCeq3Z3vkqG/view?usp=share_link){:target="_blank"}
 : [**Quiz 14**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
   : [📃 Final Proj Admin Slides](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_18_final_project_timeline_admin_stuff.pdf){:target="_blank"}
-&nbsp;
+: &nbsp;
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}  
   <!-- : [Solution](#) -->
 
