@@ -3,7 +3,7 @@ title: Week 13
 ---
 
 Apr 18
-: **Lec 21**{: .label .label-purple }Student Lecture - Tactile Perception for Robot Grasping and Manipulation
+: **Lec 21**{: .label .label-purple }[Student Lecture - Tactile Perception for Robot Grasping and Manipulation](/CSCI5980-Spr23-DeepRob/assets/slides/minn_deeprob_21_tactile_perception_grasping_manipulation.pdf)
 : [**Quiz 17**{: .label .label-orange }](https://www.gradescope.com/courses/481744){: .project-link target="_blank" }
   : [📃 Related Papers](/CSCI5980-Spr23-DeepRob/papers/){:target="_blank"}
   <!-- : [Solution](#) -->
