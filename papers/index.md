@@ -216,6 +216,8 @@ A collection of deep learning research papers with coverage in perception and as
 
 - [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/abs/2202.05263){:target="_blank"}, Tancik et al., 2022
 
+- [NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields]([https://arxiv.org/abs/2202.05263](https://arxiv.org/abs/2210.04932)){:target="_blank"}, Byravan et al., 2022
+
 
 
 # Datasets
