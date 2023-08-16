@@ -29,3 +29,8 @@ nav_order: 5
 ## Normalized Object Coordinate Space
 ### Bharath Sivaram, Sahith Reddy Chada, Prakadeeswaran Manivannan
 #### [Project Webpage](https://sites.google.com/view/nocs-pytorch)
+
+
+## Bringing Depth-supervision to Dynamic Neural Radiance Fields with Scene Flows
+### Claire Chen, Mani Deep Cherukuri
+#### [Project Webpage](https://manideep1999.github.io/DSNeRF/)
