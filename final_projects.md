@@ -27,5 +27,5 @@ nav_order: 5
 
 
 ## Normalized Object Coordinate Space
-### Bharath Sivaram, Sahith Reddy Chada, Prakadeeswaran
+### Bharath Sivaram, Sahith Reddy Chada, Prakadeeswaran Manivannan
 #### [Project Webpage](https://sites.google.com/view/nocs-pytorch)
