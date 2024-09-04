@@ -22,7 +22,7 @@ The objective of this project is to gain experience building a machine learning 
 ## Instructions
 
 1. <b>Download the project starter code</b>
-    - [Project 1 starter code: P1.zip](https://deeprob.org/assets/projects/P1.zip)
+    - [Project 1 starter code: P1.zip](/CSCI5980-Spr23-DeepRob/projects/project1/)
 
 2. <b>Unzip the starter code and upload to Google Drive</b>
     - Once unzipped, you should find a root directory titled 'P1'. The 'P1' directory contains all starter code and files needed to complete this project. Please upload the 'P1' directory to your [Google Drive](https://drive.google.com/){:target="_blank"}.
